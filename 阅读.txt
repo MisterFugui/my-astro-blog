@@ -1,0 +1,7 @@
+以后每当你写新文章或修改内容：
+
+
+cd H:\Projects\my-astro-blog
+git add .
+git commit -m "add: new article about Git"
+git push
